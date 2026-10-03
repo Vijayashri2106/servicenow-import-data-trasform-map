@@ -39,10 +39,10 @@ Imported Records
 - Verify imported records
 
 ## Project Documentation
-The complete project documentation is available in the `documentation` folder.
+The complete project documentation is available in the `documentation` folder.https://drive.google.com/drive/folders/1H45cJXSpvc1U9hlZRvl5-hZX9f-ujabv?usp=drive_link
 
 ## Demo Video
-Demo video: **[Paste your demo video link here]**
+Demo video: https://drive.google.com/file/d/1ADqnrRFH_-2vXuOvCH3FX1iD8RIQwS0D/view?usp=drive_link
 
 ## Screenshots
 Screenshots showing the table creation, import process, Transform Map configuration, and final imported records are available in the `screenshots` folder.
